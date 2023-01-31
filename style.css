@@ -32,10 +32,6 @@ h1 {
     justify-content: space-evenly;
 }
 
-.container {
-    position: relative;
-}
-
 .social-img {
     width:100%;
     height: auto;
