@@ -10,14 +10,14 @@ h1 {
 
 .header {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: flex-end;
 }
 
 .logo {
     display: flex;
-    align-items: flex-end;
     justify-content: center;
+    align-items: flex-end;
     text-transform: uppercase;
     position: relative;
 }
