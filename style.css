@@ -71,6 +71,10 @@ h1 {
     transition: opacity .2s, visibility .2s;
     text-align: center;
   }
+
+  .overlay p {
+    padding: 30px 30px;
+  }
   
   .social-img:hover .overlay{
     visibility: visible;
