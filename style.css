@@ -124,7 +124,7 @@ a:visited {
     margin: 0 auto;
     margin-bottom: 30px;
     width: 30%;
-    height: 750px;
+    height: 550px;
     padding: 20px 30px;
     text-align: left;
 }
@@ -132,13 +132,13 @@ a:visited {
 .about img {
     height: 350px;
     border-radius: 15px;
-    justify-self: center;
+    margin-left: 45px;
+    margin-bottom: 15px;
 }
 
 .image_info {
     margin: 0;
     padding: 0;
     list-style-type: none;
-    font-weight: bold;
 }
 
