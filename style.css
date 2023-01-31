@@ -74,6 +74,7 @@ h1 {
 
   .overlay p {
     padding: 30px 30px;
+    text-align: left;
   }
   
   .social-img:hover .overlay{
