@@ -1,0 +1,10 @@
+.header {
+    color: red;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.header img {
+    height: 100%;
+}
