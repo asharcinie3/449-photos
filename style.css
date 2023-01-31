@@ -44,12 +44,12 @@ h1 {
     width: 100%;
     text-align: center;
     margin-top: -15px;
+    margin-left: -20px;
 }
 
 .links {
     margin: 0;
     padding: 0;
-    margin-left: -50px;
     list-style-type: none;
     padding-bottom: 30px;
 }
