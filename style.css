@@ -64,10 +64,9 @@ li:hover {
 
 a {
     text-decoration: none;
-    color: white;
 }
 
-a:visited {
+.social-img a:visited, .social-img a {
     color: white;
 }
 
