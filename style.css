@@ -64,11 +64,11 @@ li:hover {
 
 a {
     text-decoration: none;
-    color: #222;
+    color: white;
 }
 
 a:visited {
-    color: #222;
+    color: white;
 }
 
 .img-grid {
