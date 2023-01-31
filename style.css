@@ -106,24 +106,24 @@ a:visited {
     transition: opacity .2s, visibility .2s;
     text-align: center;
     border-radius: 15px;
-  }
+}
 
-  .overlay p {
+.overlay p {
     padding: 15px 30px;
     text-align: left;
-  }
+}
   
-  .social-img:hover .overlay{
+.social-img:hover .overlay{
     visibility: visible;
     opacity: 1;
-  }
+}
 
-  .about {
+.about {
     background-color: #f3f3f3;
     border-radius: 15px;
     margin: 0 auto;
     margin-bottom: 30px;
-    width: 50%;
+    width: 30%;
     height: 500px;
     padding: 20px 30px;
     text-align: left;
@@ -134,6 +134,7 @@ a:visited {
 }
 
 .about img {
-    height: 200px;
+    height: 350px;
+    border-radius: 15px;
 }
 
