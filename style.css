@@ -64,11 +64,12 @@ h1 {
     bottom: 0;
     left: 0;
     right: 0;
-    background: rgba(29, 106, 154, 0.72);
+    background: rgba(28, 42, 50, 0.72);
     color: #fff;
     visibility: hidden;
     opacity: 0;
     transition: opacity .2s, visibility .2s;
+    justify-content: center;
   }
   
   .social-img:hover .overlay{
