@@ -62,7 +62,7 @@ h1 {
     transition: opacity ease-in-out 0.2s;
 }
 
-a {
+.nav a {
     text-decoration: none;
 }
 
