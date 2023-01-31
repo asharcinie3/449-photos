@@ -46,4 +46,24 @@ h1 {
     border-radius: 15px;
     box-shadow: rgba(6, 6, 6, 0.1) 0 0 5px;
     border: .2px solid #f3f3f3;
+    display: block;
 }
+
+.overlay {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); /* Black see-through */
+    color: #f1f1f1;
+    width: 100%;
+    transition: .5s ease;
+    opacity:0;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .container:hover .overlay {
+    opacity: 1;
+  }
