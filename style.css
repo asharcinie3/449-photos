@@ -41,7 +41,8 @@ h1 {
 }
 
 .social-img {
-    height: 300px;
+    height: auto;
+    width: 100%;
     margin: 0 auto;
     border-radius: 15px;
     box-shadow: rgba(6, 6, 6, 0.1) 0 0 5px;
