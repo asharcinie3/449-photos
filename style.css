@@ -111,3 +111,22 @@ h1 {
     visibility: visible;
     opacity: 1;
   }
+
+  .about {
+    background-color: #f3f3f3;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    width: 90%;
+    padding: 20px 30px;
+    text-align: center;
+}
+
+.about h3 {
+    padding-bottom: 15px;
+}
+
+.about img {
+    width: 30%;
+    border-radius: 70%;
+}
