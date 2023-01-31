@@ -18,7 +18,7 @@ h1 {
     display: flex;
     align-items: flex-end;
     justify-content: flex-start;
-    margin-left: 575px;
+    margin-left: 570px;
     text-transform: uppercase;
 }
 
@@ -71,6 +71,6 @@ h1 {
     background-color: #040404;
   }
   
-  .img-cont:hover .overlay {
+  .social-img:hover{
     opacity: 1;
   }
