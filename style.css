@@ -4,12 +4,10 @@ body {
 
 .header {
     display: flex;
-    flex-direction: row;
-    text-align: center;
+    align-items: center;
     text-transform: uppercase;
-    width: 80%;
 }
 
 .header img {
-    height: 20px;
+    height: 38px;
 }
