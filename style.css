@@ -8,8 +8,7 @@ h1 {
 
 .header {
     background-color: white;
-    display: flex;
-    width: 100%;
+    display: inline-block;
     margin: 0 auto;
     margin-top: 30px;
     position: sticky;
@@ -33,11 +32,11 @@ h1 {
 }
 
 .img-cont {
-    height: 250px;
+    height: 500px;
     flex-direction: column;
     overflow: hidden;
 }
 
 .social-img {
-    height: 150px;
+    height: 250px;
 }
