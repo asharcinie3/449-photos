@@ -1,7 +1,6 @@
 body {
     font-family: Helvetica, sans-serif;
     background-color: white;
-    height: auto;
 }
 
 h1 {
@@ -20,6 +19,10 @@ h1 {
 .header img {
     height: 80px;
     margin-bottom: 35px;
+}
+
+#profile-icon {
+    margin-right: 0;
 }
 
 #p2 {
