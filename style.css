@@ -40,7 +40,7 @@ h1 {
 .nav {
     width: 100%;
     text-align: center;
-    margin-top: 0px;
+    margin-top: -15px;
 }
 
 .nav .links {
