@@ -64,6 +64,11 @@ li:hover {
 
 a {
     text-decoration: none;
+    color: #222;
+}
+
+a:visited {
+    color: #222;
 }
 
 .img-grid {
