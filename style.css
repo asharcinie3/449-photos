@@ -38,13 +38,12 @@ h1 {
     height: 300px;
     width: 300px;
     padding: 30px 30px;
-    background-color: #f3f3f3;
-    border-radius: 15px;
-    box-shadow: rgba(6, 6, 6, 0.1) 0 0 5px;
-    border: .2px solid #f3f3f3;
 }
 
 .social-img {
     height: 300px;
     margin: 0 auto;
+    border-radius: 15px;
+    box-shadow: rgba(6, 6, 6, 0.1) 0 0 5px;
+    border: .2px solid #f3f3f3;
 }
