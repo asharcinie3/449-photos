@@ -35,6 +35,10 @@ h1 {
     height: 500px;
     flex-direction: column;
     overflow: hidden;
+    background-color: #e3e3e3;
+    border-radius: 15px;
+    border-color: black;
+    border-width: 4px;
 }
 
 .social-img {
