@@ -32,8 +32,8 @@ h1 {
     margin-bottom: 40px;*/
     height: 40px;
     position: absolute;
-    top: 0;
-    right: 0;
+    top: 30px;
+    right: 30px
 }
 
 #p2 {
@@ -48,14 +48,15 @@ h1 {
 
 .links {
     margin: 0;
-    padding: 0;
+    padding: 0px 15px;
+    margin-left: -15px;
     list-style-type: none;
     padding-bottom: 30px;
 }
 
 .nav li {
     display: inline-block;
-    padding: 0 20px;
+    padding: 0px;
     color: #222;
     font-size: 18px;
 }
