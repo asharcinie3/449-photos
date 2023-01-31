@@ -18,7 +18,7 @@ h1 {
     display: flex;
     align-items: flex-end;
     justify-content: flex-start;
-    margin-left: 570px;
+    margin-left: 545px;
     text-transform: uppercase;
 }
 
@@ -54,6 +54,7 @@ h1 {
     display: inline-block;
     padding: 0 20px;
     color: #222;
+    font-size: 30px;
 }
 
 .nav li:hover {
@@ -74,6 +75,7 @@ a {
     align-content: space-around;
     row-gap: 45px;
     margin-bottom: 45px;
+    margin-top: 45px;
 }
 
 .social-img {
