@@ -69,7 +69,7 @@ h1 {
     visibility: hidden;
     opacity: 0;
     transition: opacity .2s, visibility .2s;
-    justify-content: center;
+    text-align: center;
   }
   
   .social-img:hover .overlay{
