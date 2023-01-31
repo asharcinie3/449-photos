@@ -24,7 +24,7 @@ h1 {
 
 .header img {
     height: 80px;
-    margin-bottom: 35;
+    margin-bottom: 35px;
 }
 
 #profile-icon {
@@ -40,7 +40,7 @@ h1 {
 .nav {
     width: 100%;
     text-align: center;
-    margin-top: 15px;
+    margin-top: 0px;
 }
 
 .nav .links {
