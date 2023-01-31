@@ -65,6 +65,6 @@ h1 {
     text-align: center;
   }
   
-  .social-img:hover .overlay {
+  .img-cont:hover .overlay {
     opacity: 1;
   }
