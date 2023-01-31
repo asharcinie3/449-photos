@@ -56,6 +56,7 @@ h1 {
     box-shadow: rgba(6, 6, 6, 0.1) 0 0 15px;
     border: .2px solid #f3f3f3;
     display: block;
+    position: relative;
 }
 
 .overlay {
@@ -64,13 +65,14 @@ h1 {
     bottom: 0;
     left: 0;
     right: 0;
-    height: 100%;
-    width: 100%;
+    background: rgba(29, 106, 154, 0.72);
+    color: #fff;
+    visibility: hidden;
     opacity: 0;
-    transition: .5s ease;
-    background-color: #040404;
+    transition: opacity .2s, visibility .2s;
   }
   
-  .social-img:hover{
+  .social-img:hover .overlay{
+    visibility: visible;
     opacity: 1;
   }
