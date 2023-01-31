@@ -1,6 +1,6 @@
 body {
     font-family: Helvetica, sans-serif;
-    background-color: #e3e3e3;
+    background-color: white;
 }
 
 h1 {
@@ -8,7 +8,7 @@ h1 {
 }
 
 .header {
-    background-color: #e3e3e3;
+    background-color: white;
     display: flex;
     align-items: flex-end;
     justify-content: center;
@@ -38,10 +38,9 @@ h1 {
     align-items: center;
     height: 300px;
     width: 300px;
-    background-color: white;
+    background-color: #f3f3f3;
     border-radius: 15px;
     border-color: black;
-    border-width: 15px;
 }
 
 .social-img {
